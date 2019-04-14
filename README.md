@@ -67,4 +67,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
     - Usuários
 
-      - Busca dados de todos os repositórios de um usuário do GitHub
+      - Busca dados de todos os repositórios de um usuário
