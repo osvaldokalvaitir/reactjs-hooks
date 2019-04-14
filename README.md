@@ -14,11 +14,9 @@ Aplicação em ReactJS usando Hooks.
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Principal](#principal)
-
-- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -28,18 +26,18 @@ Aplicação em ReactJS usando Hooks.
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Bibliotecas](#bibliotecas)
+- [Utilizados no Projeto](#utilizados-no-projeto)
 
-## Telas
+  - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)
+
+## Capturas de Tela
 
 ### Principal
 
 ![Main](/assets/main.png)
 Esta é a única tela, onde estão todos os repositórios de um usuário do GitHub.
-
-## Rotas
-
-- Busca todos os repositórios de um usário do GitHub
 
 ## Desenvolvimento
 
@@ -55,6 +53,18 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Projeto.
 
+## Utilizados no Projeto
+
 ### Bibliotecas
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
+
+### APIs
+
+- **[GitHub](https://api.github.com)**
+
+  - **Rotas**
+
+    - Usuários
+
+      - Busca dados de todos os repositórios de um usuário do GitHub
