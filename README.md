@@ -36,7 +36,7 @@ Aplicação em ReactJS usando Hooks.
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde estão todos os repositórios de um usuário do GitHub.
 
 ## Desenvolvimento
