@@ -1,70 +1,61 @@
-# ReactJS - Hooks
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="400px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-hooks/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-hooks.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-hooks.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-hooks.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-hooks.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-hooks.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-hooks.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Hooks
+</h3>
 
-Aplicação em ReactJS usando Hooks.
+<p align="center">
+  :hook: Application in ReactJS using Hooks and consuming the features of the GitHub API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-hooks.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-hooks.svg?color=00A83A">
 
-  - [Principal](#principal)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
-  
-  - [Execução do Projeto](#execução-do-projeto)
+## :computer: Demo
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+![Demo](/.github/assets/demo.png)
 
-  - [Bibliotecas](#bibliotecas)
-  
-  - [APIs](#apis)
+## :wrench: Install and run
 
-## Capturas de Tela
+Open terminal:
 
-### Principal
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-hooks
 
-![Main](/.github/assets/main.png)
-Esta é a única tela, onde estão todos os repositórios de um usuário do GitHub.
+# Entry in folder
+cd reactjs-hooks
 
-## Desenvolvimento
+# Install deps with npm or yarn
+npm install | yarn
 
-### Configuração do Ambiente
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+## :memo: License
 
-### Instalação do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+---
 
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-### APIs
-
-- **[GitHub](https://api.github.com)**
-
-  - **Rotas**
-
-    - Usuários
-
-      - Busca dados de todos os repositórios de um usuário
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
